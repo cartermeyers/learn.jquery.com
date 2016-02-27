@@ -6,7 +6,7 @@ jQuery provides an object iterator utility called `$.each()` as well as a jQuery
 
 ### `$.each()`
 
-[`$.each()`](http://api.jquery.com/jQuery.each/) is a generic iterator function for looping over object, arrays, and array-like objects. Plain objects are iterated via their named properties while arrays and array-like objects are iterated via their indices.
+[`$.each()`](http://api.jquery.com/jQuery.each/) is a generic iterator function for looping over objects, arrays, and array-like objects. Plain objects are iterated via their named properties while arrays and array-like objects are iterated via their indices.
 
 `$.each()` is essentially a drop-in replacement of a traditional `for` or `for-in` loop. Given:
 
