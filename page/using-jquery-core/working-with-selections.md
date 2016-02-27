@@ -56,4 +56,4 @@ $( "#content" )
 		.html( "new text for the first h3!" );
 ```
 
-Chaining is extraordinarily powerful, and it's a feature that many libraries have adapted since it was made popular by jQuery. However, it must be used with care – extensive chaining can make code extremely difficult to modify or debug. There is no hard-and-fast rule to how long a chain should be – just know that it's easy to get carried away.
+Chaining is extraordinarily powerful, and it's a feature that many libraries have adopted since it was made popular by jQuery. However, it must be used with care – extensive chaining can make code extremely difficult to modify or debug. There is no hard-and-fast rule to how long a chain should be – just know that it's easy to get carried away.
